@@ -1,7 +1,4 @@
-# Temp_forecasting_CNN_LSTM
-A project predicting US temperature using different deep-learning approaches
-
-# Forecasting Analysis Using CNN and LSTM Models
+# Temperature Forecasting Analysis Using CNN and LSTM Models
 
 ## Abstract
 
